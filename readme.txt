@@ -1,6 +1,3 @@
-Name: Srishti Madan Raikar
-UTA ID: 1002033348
-
 The program is coded in Python
 Version Python 3.10.8
 
